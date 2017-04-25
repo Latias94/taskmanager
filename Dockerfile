@@ -14,7 +14,7 @@ RUN go get github.com/tools/godep
 RUN godep restore
 
 # Build the taskmanager command inside the container.
-RUN go install github.com/shijuvar/go-web/taskmanager
+RUN go install github.com/Latias94/taskmanager
 
 # Run the taskmanager command when the container starts.
 ENTRYPOINT /go/bin/taskmanager
