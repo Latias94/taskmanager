@@ -1,22 +1,24 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;taskmanager&gt;">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../gopl.io" />
-      <root url="file://$PROJECT_DIR$/../goinaction" />
-      <root url="file://$PROJECT_DIR$/../tempconv" />
-      <root url="file://$PROJECT_DIR$/../gpbp" />
-      <root url="file://$PROJECT_DIR$/../gopkg.in" />
-      <root url="file://$PROJECT_DIR$/../golang.org" />
-      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../../../gopl.io" />
+      <root url="file://$PROJECT_DIR$/../../../goinaction" />
+      <root url="file://$PROJECT_DIR$/../../../tempconv" />
+      <root url="file://$PROJECT_DIR$/../../../taskmanager" />
+      <root url="file://$PROJECT_DIR$/../../../gpbp" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../.." />
     </CLASSES>
     <SOURCES>
-      <root url="file://$PROJECT_DIR$/../gopl.io" />
-      <root url="file://$PROJECT_DIR$/../goinaction" />
-      <root url="file://$PROJECT_DIR$/../tempconv" />
-      <root url="file://$PROJECT_DIR$/../gpbp" />
-      <root url="file://$PROJECT_DIR$/../gopkg.in" />
-      <root url="file://$PROJECT_DIR$/../golang.org" />
-      <root url="file://$PROJECT_DIR$/../github.com" />
+      <root url="file://$PROJECT_DIR$/../../../gopl.io" />
+      <root url="file://$PROJECT_DIR$/../../../goinaction" />
+      <root url="file://$PROJECT_DIR$/../../../tempconv" />
+      <root url="file://$PROJECT_DIR$/../../../taskmanager" />
+      <root url="file://$PROJECT_DIR$/../../../gpbp" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../.." />
     </SOURCES>
     <excluded>
       <root url="file://$PROJECT_DIR$" />

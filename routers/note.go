@@ -4,8 +4,8 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/urfave/negroni"
 
-	"taskmanager/common"
-	"taskmanager/controllers"
+	"github.com/Latias94/taskmanager/common"
+	"github.com/Latias94/taskmanager/controllers"
 )
 
 func SetNoteRoutes(router *mux.Router) *mux.Router {

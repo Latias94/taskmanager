@@ -3,9 +3,9 @@ package controllers
 import (
 	"encoding/json"
 	"net/http"
-	"taskmanager/common"
-	"taskmanager/data"
-	"taskmanager/models"
+	"github.com/Latias94/taskmanager/common"
+	"github.com/Latias94/taskmanager/data"
+	"github.com/Latias94/taskmanager/models"
 )
 
 // Handler for HTTP Post - /users/register

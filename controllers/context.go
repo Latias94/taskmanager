@@ -2,7 +2,7 @@ package controllers
 
 import (
 	"gopkg.in/mgo.v2"
-	"taskmanager/common"
+	"github.com/Latias94/taskmanager/common"
 )
 
 // Struct used for maintaining HTTP Request Context

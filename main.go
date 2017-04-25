@@ -4,8 +4,8 @@ import (
 	"github.com/urfave/negroni"
 	"log"
 	"net/http"
-	"taskmanager/common"
-	"taskmanager/routers"
+	"github.com/Latias94/taskmanager/common"
+	"github.com/Latias94/taskmanager/routers"
 )
 
 func main() {

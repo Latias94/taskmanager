@@ -1,6 +1,6 @@
 package controllers
 
-import "taskmanager/models"
+import "github.com/Latias94/taskmanager/models"
 
 type (
 	// For Post - /user/register

@@ -2,7 +2,7 @@ package routers
 
 import (
 	"github.com/gorilla/mux"
-	"taskmanager/controllers"
+	"github.com/Latias94/taskmanager/controllers"
 )
 
 func SetUserRoutes(router *mux.Router) *mux.Router {

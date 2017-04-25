@@ -6,8 +6,8 @@ import (
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
 	"net/http"
-	"taskmanager/common"
-	"taskmanager/data"
+	"github.com/Latias94/taskmanager/common"
+	"github.com/Latias94/taskmanager/data"
 )
 
 // Handler for HTTP Post - /tasks
