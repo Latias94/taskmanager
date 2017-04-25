@@ -2,10 +2,10 @@
 FROM golang
 
 # Copy the local package files to the conainer's workspace
-ADD . /go/src/taskmanager
+ADD . /go/src/github.com/Latias94/taskmanager
 
 # Setting up working directory
-WORKDIR /go/src/taskmanager
+WORKDIR /go/src/github.com/Latias94/taskmanager
 
 # Get godeps for managing and restoring dependencies
 RUN go get github.com/tools/godep
